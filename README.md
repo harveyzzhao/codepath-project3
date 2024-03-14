@@ -40,13 +40,13 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='https://imgur.com/a/uwFGIxy' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<a src='https://imgur.com/a/uwFGIxy' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/uwFGIxy' title='Video Demo' width='' alt='Video Demo' />
+<a src='https://imgur.com/a/uwFGIxy' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
@@ -61,7 +61,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='https://imgur.com/a/uwFGIxy' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<a src='https://imgur.com/a/uwFGIxy' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
